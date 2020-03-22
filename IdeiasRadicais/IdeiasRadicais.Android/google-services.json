@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "640195007340",
+    "firebase_url": "https://ideias-radicais.firebaseio.com",
+    "project_id": "ideias-radicais",
+    "storage_bucket": "ideias-radicais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640195007340:android:88587340e30d9740",
+        "android_client_info": {
+          "package_name": "br.com.ideiasradicais.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHx3hQcMGabqIiv97-c_mPiKhNaki-5eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640195007340-mv0r0npst4aij9am1vnnv83mhhuecp97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
